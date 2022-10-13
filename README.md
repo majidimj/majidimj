@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majidimj
+- 👋 Hi, I’m @majeed
 - 👀 I’m interested in frontend web development and mobile app development
 - 🌱 I’m currently learning frameworks used for frontend web development
 - 💞️ I’m looking to collaborate on web development
